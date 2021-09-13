@@ -34,4 +34,8 @@ To initalize the git repository
 
 ## ls:
 
-git clone
+# git clone
+
+# git Pull
+$ git pull origin develop use this command to fetch remote Git changes reflect in local code.
+
